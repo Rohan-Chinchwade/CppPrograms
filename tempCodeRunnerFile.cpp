@@ -1,0 +1,1 @@
+cout<<"Using typecasting:"<<(double)x/y<<endl;
